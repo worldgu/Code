@@ -2,8 +2,10 @@ package com.zero.jdbc;/**
  * Created by 张春海 on 2020/6/12  18:43
  */
 
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 import java.sql.Date;
 
@@ -15,6 +17,8 @@ import java.sql.Date;
  *@Version 1.0 */
 @Getter
 @Setter
+@ToString
+@EqualsAndHashCode
 public class Student {
 
     private int id;
