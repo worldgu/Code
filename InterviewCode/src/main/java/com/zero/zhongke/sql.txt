@@ -1,0 +1,11 @@
+查询部门下薪资综合
+
+select *
+from (
+	select d.dept,sum(p.xinzi)  xinzi
+	from dept d
+	left JOIN emp p on d.name = p.name
+	group by d.dept
+) a
+
+where a.xinzi < 4000
