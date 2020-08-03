@@ -1,0 +1,13 @@
+"D:\Programming software\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" H:\MsbSpace\Zero\Code\OpenJDK8
+-- Configuring done
+-- Generating done
+-- Build files have been written to: H:/MsbSpace/Zero/Code/OpenJDK8/cmake-build-debug
+
+Cannot get compiler information:
+	Cannot load Visual C++ environment from C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvarsall.bat:
+	command [cmd.exe, /c, call, C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvarsall.bat, x86, &&, D:\Programming software\JetBrains\CLion 2020.1.2\jbr\bin\java, -cp, D:\Programming software\JetBrains\CLion 2020.1.2\lib\util.jar, com.intellij.util.ReadEnv, C:\Users\86158\AppData\Local\Temp\intellij-cmd-env.tmp, ||, exit, /B, %ERRORLEVEL%]
+		exit code:1 text:8611 out:**********************************************************************
+	** Visual Studio 2017 Developer Command Prompt v15.0
+	** Copyright (c) 2017 Microsoft Corporation
+	**********************************************************************
+	[vcvarsall.bat] Environment initialized for: 'x86'
