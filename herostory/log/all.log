@@ -1,0 +1,56 @@
+[00:14:25,371] [INFO] ServerMain.main --> 游戏服务器启动成功
+[00:14:25,685] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = HttpObjectAggregator$AggregatedFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: CompositeByteBuf(ridx: 0, widx: 0, cap: 0, components=0))
+GET /websocket HTTP/1.1
+Host: 127.0.0.1:12345
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
+Upgrade: websocket
+Origin: http://cdn0001.afrxvk.cn
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: tbdxn7UWCWsffUiO90GDCg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+content-length: 0
+[00:16:00,758] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = HttpObjectAggregator$AggregatedFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: CompositeByteBuf(ridx: 0, widx: 0, cap: 0, components=0))
+GET /websocket HTTP/1.1
+Host: 127.0.0.1:12345
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
+Upgrade: websocket
+Origin: http://cdn0001.afrxvk.cn
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Sec-WebSocket-Key: sM4P6RmH2x5jLRNAdaTI7Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+content-length: 0
+[00:17:15,325] [INFO] ServerMain.main --> 游戏服务器启动成功
+[00:17:18,636] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 19, cap: 19))
+[00:17:18,638] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 4, cap: 4))
+[00:17:24,356] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:24,767] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:25,022] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:25,161] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:25,372] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:25,539] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:26,044] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:26,208] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:26,387] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:26,541] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:26,680] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:26,789] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:26,914] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:27,017] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:27,150] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:28,855] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:29,856] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:30,649] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14))
+[00:17:31,563] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:32,280] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:32,406] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
+[00:17:32,551] [INFO] GameMsgHandler.channelRead0 --> 收到客户端消息, msg = BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10))
