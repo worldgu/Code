@@ -16,6 +16,9 @@ public class GameMsgHandler extends SimpleChannelInboundHandler<Object> {
 
     @Override
     protected void channelRead0(ChannelHandlerContext ctx, Object msg) throws Exception {
+        if ( ctx == null || msg == null) {
+            return ;
+        }
         LOGGER.info("收到客户端消息, msg = {}",msg);
     }
 }
