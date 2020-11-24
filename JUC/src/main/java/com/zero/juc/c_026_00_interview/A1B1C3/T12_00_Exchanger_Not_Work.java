@@ -1,9 +1,6 @@
 package com.zero.juc.c_026_00_interview.A1B1C3;
 
 import java.util.concurrent.Exchanger;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @ClassName T08_00_lock_condition

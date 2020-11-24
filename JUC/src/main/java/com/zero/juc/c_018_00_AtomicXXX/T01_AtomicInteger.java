@@ -2,6 +2,7 @@ package com.zero.juc.c_018_00_AtomicXXX;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  *  int  计数时，使用  AtomicInteger  可以 取代 volatile 以及  synchronized 的组合
