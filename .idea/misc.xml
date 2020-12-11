@@ -3,6 +3,8 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/DesignPatterns" />
+    <file type="web" url="file://$PROJECT_DIR$/Lock_Demo" />
+    <file type="web" url="file://$PROJECT_DIR$/lockdemo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -11,6 +13,8 @@
         <option value="$PROJECT_DIR$/InterviewCode/pom.xml" />
         <option value="$PROJECT_DIR$/JUC/pom.xml" />
         <option value="$PROJECT_DIR$/DesignPatterns/pom.xml" />
+        <option value="$PROJECT_DIR$/lockdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/javase/pom.xml" />
       </list>
     </option>
   </component>

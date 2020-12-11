@@ -5,308 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c093227-2f7d-4f05-9cfe-2f2decacf4c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Decorator/BaseIronManSuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Decorator/FireDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Decorator/LaserDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Decorator/Mark1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Iterator/BaseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Iterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Iterator/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Iterator/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Memento/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/ComputePart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/ComputeStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/Comsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/KeyBorad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/Visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/clazz/AImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/clazz/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/clazz/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/clazz/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/inter/AImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/inter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/inter/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/inter/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/adapter/inter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/Huawei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/WangZhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/bridge/YinYangShi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/builder/Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/chainOfResponsibility/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/chainOfResponsibility/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/chainOfResponsibility/PermissionFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/chainOfResponsibility/UserFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/command/Jarvis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/command/Mic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/command/TonyStark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/command/WakeUpCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/composite/AbstractTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/composite/BranchNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/composite/LeafNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_01/AppleCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_01/BaseCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_01/ComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_01/LenovoCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/AppleCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/AppleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/BaseCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/BaseComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/ComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/LenovoCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/LenovoComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/LenovoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/BaseMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/Clown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/DCMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/IronMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/IronManSuperPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/MarvelMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/SuperMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/SuperManSuperPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/SuperPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_03/Wicked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/flyWeight/flyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/AbstractEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/IronMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/Jarvis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/PhoneCallEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/PhoneCallEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/WakeupEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/observer/WakeupEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/prototype/Prototype2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/prototype/Prototype3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/cg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/cg/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/cg/ManInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/jdkProxy/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/jdkProxy/HumanInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/jdkProxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/dynamic/jdkProxy/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/stati/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/stati/HumanProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/stati/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/proxy/stati/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/state/Audit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/state/Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/state/Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/strategy/IStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/strategy/StrategyImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/strategy/StrategyImple1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/templateMethod/AbstractTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/templateMethod/DefaultTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/templateMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/test/java/com/zero/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JUC/src/test/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase/src/main/java/com/zero/lambda/L01_Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/src/main/java/com/zero/lockdemo/LockdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/src/main/java/com/zero/lockdemo/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lockdemo/src/test/java/com/zero/lockdemo/LockdemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewCode/InterviewCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewCode/src/main/java/com/zero/yunke/简答题.md" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewCode/src/main/java/com/zero/yunke/简答题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/JUC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/src/main/java/com/zero/juc/c_018_00_AtomicXXX/T01_AtomicInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/src/main/java/com/zero/juc/c_018_00_AtomicXXX/T01_AtomicInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T12_00_Exchanger_Not_Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUC/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T12_00_Exchanger_Not_Work.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v1/LongEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v1/LongEventFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v1/LongEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v1/LongEventProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v2/LongEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v2/LongEventFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v2/LongEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v2/LongEventProducer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v2/LongEventProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/disruptor/v2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T01_WhatisThread$T1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T01_WhatisThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T02_HowToCreateThread$MyRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T02_HowToCreateThread$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T02_HowToCreateThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T03_Sleep_YieId_Join.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T04_ThreadState$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_000/T04_ThreadState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_001/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_002/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_003/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_003/T1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_004/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_005/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_006/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_007/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_008/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_009/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_010/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_010/TT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_011/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_012_Volatile/T01_HelloVolatile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_012_Volatile/T02_VolatileRefernce1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_012_Volatile/T03_VolatileReference2$Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_012_Volatile/T03_VolatileReference2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_012_Volatile/T04_VolatileNotSync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_012_Volatile/T05_VolatileVsSync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_016_LockOptimization/FineCoarseLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_017_MoreAboutSync/DoNotLockString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_017_MoreAboutSync/SyncSameObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_00_AtomicXXX/T01_AtomicInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_00_AtomicXXX/T02_AtomicVsSyncVsLongAdder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_00_AtomicXXX/T02_AtomicVsSyncVsLongAdder$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_00_AtomicXXX/T02_AtomicVsSyncVsLongAdder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_00_AtomicXXX/T03_SyncVsLongAdder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_00_AtomicXXX/T03_SyncVsLongAdder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_01_Unsafe/HelloUnsafe$M.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_018_01_Unsafe/HelloUnsafe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T01_ReentrantLock1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T02_ReentrantLock2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T03_ReentrantLock3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T04_ReentrantLock4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T05_ReentrantLock5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T06_TestCountDownLatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T07_TestCyclicBarrier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T08_TestPhaser$MarriagePhaser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T08_TestPhaser$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T08_TestPhaser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T09_TestPhaser2$MarriagePhaser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T09_TestPhaser2$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T09_TestPhaser2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T10_TestReadWriteLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T11_TestSemaphore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T12_TestExchanger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020/T13_TestLockSupport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T01_WithoutVolatile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T02_WithVolatile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T03_notifyHoldingLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T04_NotifyFreeLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T05_CountDownLatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T06_LockSupport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T07_LockSupport_WithoutSleep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_020_01_Interview/T08_Semaphore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_01_interview/MyContainer1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_01_interview/MyContainer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_02_AQS/MLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_02_AQS/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_02_AQS/Sync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_02_AQS/TestReentrantLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_021_03_VarHandle/T01_HelloVarHandle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/M.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/T01_NormalReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/T02_SoftReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/T03_WeakReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/T04_PhantomReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/ThreadLocal1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/ThreadLocal2$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_022_RefTypeAndThreadLocal/ThreadLocal2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023/Singletion$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023/Singletion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_01_Containers/HelloQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_01_Containers/T01_HelloArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_01_Containers/T02_CollectionListSetQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T01_TestHashtable$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T01_TestHashtable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T02_TestHashMap$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T02_TestHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T03_TestSynchronizedHashMap$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T03_TestSynchronizedHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T04_TestConcurrentHashMap$MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_023_02_FromHashtableToCHM/T04_TestConcurrentHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_024_FromVectorToQueue/TicketSeller1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_024_FromVectorToQueue/TicketSeller2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_024_FromVectorToQueue/TicketSeller3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_024_FromVectorToQueue/TicketSeller4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T01_ConcurrentMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T02_CopyOnWriteList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T02_CopyOnWriteList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T03_SynchronizedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T04_ConcurrentQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T05_LinkedBlokingQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T06_ArrayBlockingQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T07_01_PriorityQueque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T07_DelayQueue$MyTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T07_DelayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T08_SynchronusQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_025/T09_TransferQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T01_00_Question.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T02_00_LockSupport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T03_00_cas$ReadyToRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T03_00_cas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T04_00_BlockingQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T05_00_AtomicInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T06_00_sync_wait_notify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T07_00_sync_wait_notify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T08_00_lock_condition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T09_00_lock_condition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T10_00_PipedStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T12_00_Exchanger_Not_Work.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_00_interview/A1B1C3/T13_TransferQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T01_MyExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T02_ExecutorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T03_Callable$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T03_Callable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T04_Eeecutors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T05_00_HelloThreadPool$Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T05_00_HelloThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T05_ThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T06_00_Future.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T06_01_CompletableFuture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T07_SingleThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T08_CachedPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T09_FixedThreadPool$MyTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T09_FixedThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T10_SchedulePool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T11_WorkStealingPool$R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T11_WorkStealingPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T12_ForkJoinPool$AddTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T12_ForkJoinPool$AddTaskRet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T12_ForkJoinPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T13_ParallelStreamAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T14_MyRejectedHandler$MyHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_026_01_ThreadPool/Readme/T14_MyRejectedHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_027_future_to_loom/T01_Future.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_027_future_to_loom/T02_ListenableFuture$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_027_future_to_loom/T02_ListenableFuture$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_027_future_to_loom/T02_ListenableFuture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_028_FalseSharing/T01_CacheLinePadding$T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_028_FalseSharing/T01_CacheLinePadding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_028_FalseSharing/T02_CacheLinePadding$Padding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_028_FalseSharing/T02_CacheLinePadding$T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_028_FalseSharing/T02_CacheLinePadding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/classes/com/zero/juc/c_029_WriteCombining/WriteCombining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/test-classes/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUC/target/test-classes/TextPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javase/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/.idea/javase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javase/.idea/javase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/circle/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/circle/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/circle/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/circle/Cylinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/circle/TestCylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/circle/TestCylinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/jdbc/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/jdbc/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/jdbc/TestJdbc.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/jdbc/TestJdbc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/object/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/object/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/object/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/object/UserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/single/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/single/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/LoginClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/LoginClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/LoginServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/LoginServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/StringCliient.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/StringCliient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/StringServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/StringServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/socket/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/string/string.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/string/string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/thread/ThreadTest$Dec.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/thread/ThreadTest$Dec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/thread/ThreadTest$Inc.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/thread/ThreadTest$Inc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/classes/com/zero/thread/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/classes/com/zero/thread/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/test-classes/com/zero/main/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/test-classes/com/zero/main/DemoTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,13 +100,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DesignPatterns/src/main/java/com/zero/factories/d_02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javase" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -383,8 +118,12 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.zero" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\MsbSpace\Zero\Code\DesignPatterns\src\main\java\com\zero\factories\d_02" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zero.state" />
+      <recent name="com.zero.command" />
+      <recent name="com.zero.Visitor" />
+      <recent name="com.zero.observer" />
+      <recent name="com.zero.bridge" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.zero.strategy" />
@@ -392,12 +131,8 @@
       <recent name="com.zero.proxy.dynamic.jdkProxy" />
       <recent name="com.zero.factories.d_02" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zero.state" />
-      <recent name="com.zero.command" />
-      <recent name="com.zero.Visitor" />
-      <recent name="com.zero.observer" />
-      <recent name="com.zero.bridge" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\MsbSpace\Zero\Code\DesignPatterns\src\main\java\com\zero\factories\d_02" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -479,6 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LockdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lockdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zero.lockdemo.LockdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
@@ -503,7 +245,9 @@
       <workItem from="1594991149217" duration="7239000" />
       <workItem from="1605858896092" duration="28911000" />
       <workItem from="1606218476231" duration="11029000" />
-      <workItem from="1606233418568" duration="584000" />
+      <workItem from="1606233418568" duration="2924000" />
+      <workItem from="1607357849883" duration="716000" />
+      <workItem from="1607585046335" duration="9072000" />
     </task>
     <servers />
   </component>
@@ -536,30 +280,30 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="980" y="269" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1606062792958" />
-    <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1606061714080">
+    <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1607680773982">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1606061714080" />
-    <state width="1815" height="184" key="GridCell.Tab.0.bottom" timestamp="1606233985914">
+    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1607680773982" />
+    <state width="1815" height="184" key="GridCell.Tab.0.bottom" timestamp="1607593264369">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="184" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606233985914" />
-    <state width="1815" height="296" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1606114009870" />
-    <state width="1815" height="184" key="GridCell.Tab.0.center" timestamp="1606233985913">
+    <state width="1815" height="184" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606234014323" />
+    <state width="1815" height="184" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1607593264369" />
+    <state width="1815" height="184" key="GridCell.Tab.0.center" timestamp="1607593264367">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="184" key="GridCell.Tab.0.center/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606233985913" />
-    <state width="1815" height="296" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1606114009870" />
-    <state width="1815" height="184" key="GridCell.Tab.0.left" timestamp="1606233985913">
+    <state width="1815" height="184" key="GridCell.Tab.0.center/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606234014323" />
+    <state width="1815" height="184" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1607593264367" />
+    <state width="1815" height="184" key="GridCell.Tab.0.left" timestamp="1607593264367">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="184" key="GridCell.Tab.0.left/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606233985913" />
-    <state width="1815" height="296" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1606114009870" />
-    <state width="1815" height="184" key="GridCell.Tab.0.right" timestamp="1606233985914">
+    <state width="1815" height="184" key="GridCell.Tab.0.left/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606234014322" />
+    <state width="1815" height="184" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1607593264367" />
+    <state width="1815" height="184" key="GridCell.Tab.0.right" timestamp="1607593264369">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="184" key="GridCell.Tab.0.right/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606233985914" />
-    <state width="1815" height="296" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1606114009870" />
+    <state width="1815" height="184" key="GridCell.Tab.0.right/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606234014323" />
+    <state width="1815" height="184" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1607593264369" />
     <state width="1815" height="256" key="GridCell.Tab.1.bottom" timestamp="1606122754865">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -576,18 +320,23 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="256" key="GridCell.Tab.1.right/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606122754865" />
-    <state x="459" y="195" key="Maven.ArtifactSearchDialog" timestamp="1606114805864">
+    <state x="459" y="195" key="Maven.ArtifactSearchDialog" timestamp="1607591288468">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="459" y="195" key="Maven.ArtifactSearchDialog/0.0.1858.1080/-1592.0.1592.1072@0.0.1858.1080" timestamp="1606114805864" />
-    <state x="482" y="305" key="NewModule_or_Project.wizard" timestamp="1606060674283">
+    <state x="459" y="195" key="Maven.ArtifactSearchDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1607591288468" />
+    <state x="482" y="305" key="NewModule_or_Project.wizard" timestamp="1607680775912">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="482" y="305" key="NewModule_or_Project.wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1606060674283" />
-    <state x="322" y="176" key="SettingsEditor" timestamp="1606109905072">
+    <state x="482" y="305" key="NewModule_or_Project.wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1607680775912" />
+    <state x="503" y="139" key="SettingsEditor" timestamp="1607680938026">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="322" y="176" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1606109905072" />
+    <state x="503" y="139" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1607680938026" />
+    <state width="986" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1606291229832">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="986" height="1078" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1858.1080@0.0.1858.1080" timestamp="1606291229832" />
     <state x="700" y="367" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1606230526782">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -596,10 +345,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="1150" y="372" width="596" height="536" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1606063895435" />
-    <state x="376" y="124" key="new project wizard" timestamp="1606061722487">
+    <state x="376" y="124" key="new project wizard" timestamp="1607591537637">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="376" y="124" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1606061722487" />
+    <state x="376" y="124" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1607591537637" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
