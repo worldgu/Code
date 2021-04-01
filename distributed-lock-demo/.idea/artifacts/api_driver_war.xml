@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="api-driver:war">
+    <output-path>$PROJECT_DIR$/api-driver/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>api-driver</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="api-driver-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="api-driver:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,18 @@
+#服务端口
+#server:
+#  port: 8004
+
+#应用名称升及验证账号
+spring:
+  application:
+    name: api-driver
+
+#注册中心
+eureka:
+  client:
+    enabled: true
+    service-url:
+      defaultZone: http://eureka-7900:7900/eureka/
+
+service:
+  port: 8003

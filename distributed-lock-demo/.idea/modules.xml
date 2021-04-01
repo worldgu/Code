@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-driver/api-driver.iml" filepath="$PROJECT_DIR$/api-driver/api-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/distributed-lock-demo.iml" filepath="$PROJECT_DIR$/.idea/distributed-lock-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockdemo/lockdemo.iml" filepath="$PROJECT_DIR$/lockdemo/lockdemo.iml" />
+    </modules>
+  </component>
+</project>
